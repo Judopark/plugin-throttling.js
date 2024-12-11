@@ -1,4 +1,4 @@
-// @ts-expect-error No types for "bottleneck/light"
+// @ts-expect-error No typ7es for "bottleneck/light"
 import BottleneckLight from "bottleneck/light.js";
 import type TBottleneck from "bottleneck";
 import type { Octokit, OctokitOptions } from "@octokit/core";
